@@ -14,3 +14,24 @@ D:\TÀI LIỆU\HỌC TẬP\Code_LTWin\Đồ Án\Cá Nhân - Người 2\Nguoi2_Bu
 D:\TÀI LIỆU\HỌC TẬP\Code_LTWin\Đồ Án\Cá Nhân - Người 2\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmThongKe.resources
 D:\TÀI LIỆU\HỌC TẬP\Code_LTWin\Đồ Án\Cá Nhân - Người 2\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmTimDuong.resources
 D:\TÀI LIỆU\HỌC TẬP\Code_LTWin\Đồ Án\Cá Nhân - Người 2\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmTuyen.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\Nguoi2_BuocDau.exe.config
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\Nguoi2_BuocDau.exe
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\Nguoi2_BuocDau.pdb
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmGa.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmLienKet.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmMain.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmThongKe.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmTimDuong.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.frmTuyen.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.exe
+C:\Users\Admin\Source\Repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.pdb
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_B.DEE9A16D.Up2Date
+C:\Users\Admin\source\repos\Nguoi2_BuocDau\Nguoi2_BuocDau\obj\Debug\Nguoi2_BuocDau.exe.config

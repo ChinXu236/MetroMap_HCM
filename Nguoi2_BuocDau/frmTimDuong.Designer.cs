@@ -2,15 +2,15 @@
 {
     partial class frmTimDuong
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label lblGaĐi;
+        private System.Windows.Forms.Label lblGaĐến;
+        private System.Windows.Forms.TextBox txtTu;
+        private System.Windows.Forms.TextBox txtDen;
+        private System.Windows.Forms.Button btnTimDuong;
+        private System.Windows.Forms.Button btnDoiChieu;
+        private System.Windows.Forms.DataGridView dgvLoTrinh;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,109 +20,124 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            this.cmbGaBatDau = new System.Windows.Forms.ComboBox();
-            this.cmbGaKetThuc = new System.Windows.Forms.ComboBox();
-            this.lblGaBatDau = new System.Windows.Forms.Label();
-            this.lblGaKetThuc = new System.Windows.Forms.Label();
-            this.lblKetQua = new System.Windows.Forms.Label();
+            this.lblGaĐi = new System.Windows.Forms.Label();
+            this.lblGaĐến = new System.Windows.Forms.Label();
+            this.txtTu = new System.Windows.Forms.TextBox();
+            this.txtDen = new System.Windows.Forms.TextBox();
             this.btnTimDuong = new System.Windows.Forms.Button();
-            this.txtKetQua = new System.Windows.Forms.TextBox();
+            this.btnDoiChieu = new System.Windows.Forms.Button();
+            this.dgvLoTrinh = new System.Windows.Forms.DataGridView();
+            this.btnChiTiet = new System.Windows.Forms.Button();
+            this.BtnQuayLai = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvLoTrinh)).BeginInit();
             this.SuspendLayout();
             // 
-            // cmbGaBatDau
+            // lblGaĐi
             // 
-            this.cmbGaBatDau.FormattingEnabled = true;
-            this.cmbGaBatDau.Location = new System.Drawing.Point(234, 77);
-            this.cmbGaBatDau.Name = "cmbGaBatDau";
-            this.cmbGaBatDau.Size = new System.Drawing.Size(121, 24);
-            this.cmbGaBatDau.TabIndex = 0;
+            this.lblGaĐi.AutoSize = true;
+            this.lblGaĐi.Location = new System.Drawing.Point(50, 20);
+            this.lblGaĐi.Name = "lblGaĐi";
+            this.lblGaĐi.Size = new System.Drawing.Size(39, 16);
+            this.lblGaĐi.TabIndex = 0;
+            this.lblGaĐi.Text = "Ga đi";
             // 
-            // cmbGaKetThuc
+            // lblGaĐến
             // 
-            this.cmbGaKetThuc.FormattingEnabled = true;
-            this.cmbGaKetThuc.Location = new System.Drawing.Point(234, 142);
-            this.cmbGaKetThuc.Name = "cmbGaKetThuc";
-            this.cmbGaKetThuc.Size = new System.Drawing.Size(121, 24);
-            this.cmbGaKetThuc.TabIndex = 0;
+            this.lblGaĐến.AutoSize = true;
+            this.lblGaĐến.Location = new System.Drawing.Point(50, 60);
+            this.lblGaĐến.Name = "lblGaĐến";
+            this.lblGaĐến.Size = new System.Drawing.Size(51, 16);
+            this.lblGaĐến.TabIndex = 1;
+            this.lblGaĐến.Text = "Ga đến";
             // 
-            // lblGaBatDau
+            // txtTu
             // 
-            this.lblGaBatDau.AutoSize = true;
-            this.lblGaBatDau.Location = new System.Drawing.Point(125, 77);
-            this.lblGaBatDau.Name = "lblGaBatDau";
-            this.lblGaBatDau.Size = new System.Drawing.Size(75, 16);
-            this.lblGaBatDau.TabIndex = 1;
-            this.lblGaBatDau.Text = "Ga Bắt Đầu";
+            this.txtTu.Location = new System.Drawing.Point(120, 17);
+            this.txtTu.Name = "txtTu";
+            this.txtTu.Size = new System.Drawing.Size(200, 22);
+            this.txtTu.TabIndex = 2;
             // 
-            // lblGaKetThuc
+            // txtDen
             // 
-            this.lblGaKetThuc.AutoSize = true;
-            this.lblGaKetThuc.Location = new System.Drawing.Point(125, 150);
-            this.lblGaKetThuc.Name = "lblGaKetThuc";
-            this.lblGaKetThuc.Size = new System.Drawing.Size(80, 16);
-            this.lblGaKetThuc.TabIndex = 1;
-            this.lblGaKetThuc.Text = "Ga Kết Thúc";
-            // 
-            // lblKetQua
-            // 
-            this.lblKetQua.AutoSize = true;
-            this.lblKetQua.Location = new System.Drawing.Point(125, 297);
-            this.lblKetQua.Name = "lblKetQua";
-            this.lblKetQua.Size = new System.Drawing.Size(54, 16);
-            this.lblKetQua.TabIndex = 1;
-            this.lblKetQua.Text = "Kết Quả";
+            this.txtDen.Location = new System.Drawing.Point(120, 57);
+            this.txtDen.Name = "txtDen";
+            this.txtDen.Size = new System.Drawing.Size(200, 22);
+            this.txtDen.TabIndex = 3;
             // 
             // btnTimDuong
             // 
-            this.btnTimDuong.Location = new System.Drawing.Point(192, 210);
+            this.btnTimDuong.Location = new System.Drawing.Point(420, 30);
             this.btnTimDuong.Name = "btnTimDuong";
-            this.btnTimDuong.Size = new System.Drawing.Size(114, 41);
-            this.btnTimDuong.TabIndex = 2;
-            this.btnTimDuong.Text = "Tìm Đường";
+            this.btnTimDuong.Size = new System.Drawing.Size(105, 32);
+            this.btnTimDuong.TabIndex = 4;
+            this.btnTimDuong.Text = "Tìm đường";
             this.btnTimDuong.UseVisualStyleBackColor = true;
             // 
-            // txtKetQua
+            // btnDoiChieu
             // 
-            this.txtKetQua.Location = new System.Drawing.Point(234, 290);
-            this.txtKetQua.Name = "txtKetQua";
-            this.txtKetQua.Size = new System.Drawing.Size(121, 22);
-            this.txtKetQua.TabIndex = 3;
+            this.btnDoiChieu.Location = new System.Drawing.Point(340, 37);
+            this.btnDoiChieu.Name = "btnDoiChieu";
+            this.btnDoiChieu.Size = new System.Drawing.Size(60, 23);
+            this.btnDoiChieu.TabIndex = 5;
+            this.btnDoiChieu.Text = "⇄";
+            this.btnDoiChieu.UseVisualStyleBackColor = true;
+            // 
+            // dgvLoTrinh
+            // 
+            this.dgvLoTrinh.AllowUserToAddRows = false;
+            this.dgvLoTrinh.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvLoTrinh.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvLoTrinh.Location = new System.Drawing.Point(12, 98);
+            this.dgvLoTrinh.Name = "dgvLoTrinh";
+            this.dgvLoTrinh.ReadOnly = true;
+            this.dgvLoTrinh.RowHeadersVisible = false;
+            this.dgvLoTrinh.RowHeadersWidth = 51;
+            this.dgvLoTrinh.RowTemplate.Height = 24;
+            this.dgvLoTrinh.Size = new System.Drawing.Size(776, 309);
+            this.dgvLoTrinh.TabIndex = 6;
+            // 
+            // btnChiTiet
+            // 
+            this.btnChiTiet.Location = new System.Drawing.Point(542, 29);
+            this.btnChiTiet.Name = "btnChiTiet";
+            this.btnChiTiet.Size = new System.Drawing.Size(89, 33);
+            this.btnChiTiet.TabIndex = 7;
+            this.btnChiTiet.Text = "Chi Tiết";
+            this.btnChiTiet.UseVisualStyleBackColor = true;
+            // 
+            // BtnQuayLai
+            // 
+            this.BtnQuayLai.Location = new System.Drawing.Point(661, 28);
+            this.BtnQuayLai.Name = "BtnQuayLai";
+            this.BtnQuayLai.Size = new System.Drawing.Size(90, 32);
+            this.BtnQuayLai.TabIndex = 8;
+            this.BtnQuayLai.Text = "Quay Lại";
+            this.BtnQuayLai.UseVisualStyleBackColor = true;
+            this.BtnQuayLai.Click += new System.EventHandler(this.BtnQuayLai_Click);
             // 
             // frmTimDuong
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtKetQua);
+            this.Controls.Add(this.BtnQuayLai);
+            this.Controls.Add(this.btnChiTiet);
+            this.Controls.Add(this.lblGaĐi);
+            this.Controls.Add(this.lblGaĐến);
+            this.Controls.Add(this.txtTu);
+            this.Controls.Add(this.txtDen);
             this.Controls.Add(this.btnTimDuong);
-            this.Controls.Add(this.lblKetQua);
-            this.Controls.Add(this.lblGaKetThuc);
-            this.Controls.Add(this.lblGaBatDau);
-            this.Controls.Add(this.cmbGaKetThuc);
-            this.Controls.Add(this.cmbGaBatDau);
+            this.Controls.Add(this.btnDoiChieu);
+            this.Controls.Add(this.dgvLoTrinh);
             this.Name = "frmTimDuong";
-            this.Text = "frmTimDuong";
+            this.Text = "MetroMap HCM - Tìm đường";
+            ((System.ComponentModel.ISupportInitialize)(this.dgvLoTrinh)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
-        #endregion
-
-        private System.Windows.Forms.ComboBox cmbGaBatDau;
-        private System.Windows.Forms.ComboBox cmbGaKetThuc;
-        private System.Windows.Forms.Label lblGaBatDau;
-        private System.Windows.Forms.Label lblGaKetThuc;
-        private System.Windows.Forms.Label lblKetQua;
-        private System.Windows.Forms.Button btnTimDuong;
-        private System.Windows.Forms.TextBox txtKetQua;
+        private System.Windows.Forms.Button btnChiTiet;
+        private System.Windows.Forms.Button BtnQuayLai;
     }
 }
